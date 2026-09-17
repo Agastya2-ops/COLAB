@@ -1,1 +1,1 @@
-#hello everyone, it's our second day of our project
+#hello everyone, it's second day of our project
